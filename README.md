@@ -44,10 +44,10 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 ## 🏆 Projetos Principais
 
 ### 📂 Volume Gerenciado  
-- Extensão arquivo CSV
+- Extensão utlizada arquivo CSV
 - Estudantes.csv
-- Tranformando o CSV em Datafrema
-- Validadndo o Dataframe 
+- Transformando o CSV em Datafrema
+- Validando o Dataframe 
 - Criando um schema Defaut
 - Transformando o Dataframe em Delta Table
 - Pipeline
