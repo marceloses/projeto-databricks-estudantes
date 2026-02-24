@@ -9,7 +9,7 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 
 ---
 
-## 🚀 Sobre Mim em constante evolução
+## 🚀 Em constante evolução
 - 📊 Analytics
 - 📚 Education
 - 🌐 ETL
@@ -51,26 +51,12 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 - Criando um schema Defaut
 - Transformando o Dataframe em Delta Table
 - Pipeline
-
-### 📂 ETL API Python
-1. O Fluxo de Dados
-- O processo segue esta lógica:
-- Request: Coleta os dados da API.
-- Landing: Salva o JSON bruto (Raw) para persistência e auditoria.
-- DataFrame: Lê o JSON para o motor Spark.
-- Table: Salva como uma tabela Delta (arquitetura Lakehouse).
 - **Ferramentas:** Databricks, PySpark.
-
-### 📂 [Data Governance Framework](https://github.com/seu-usuario/projeto-link)
-Automação de permissões e linhagem de dados usando Unity Catalog e Terraform.
-- **Ferramentas:** Terraform, Databricks CLI, Python.
 
 ---
 
 ## 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
 ---
-*“In data we trust, everyone else must bring their own clusters.”* ⚡
+*“Nos dados em que confiamos, todos os outros devem trazer seus próprios agrupamentos”* ⚡
