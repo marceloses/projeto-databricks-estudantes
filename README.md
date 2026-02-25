@@ -52,7 +52,7 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 - Transformando o Dataframe em Delta Table
 - Pipeline
 
-### 📂 ETL API Python
+### 📂 Em Desenvolvimento ETL API Python
 1. O Fluxo de Dados
 - O processo segue esta lógica:
 - Request: Coleta os dados da API.
@@ -60,12 +60,6 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 - DataFrame: Lê o JSON para o motor Spark.
 - Table: Salva como uma tabela Delta (arquitetura Lakehouse).
 - **Ferramentas:** Databricks, PySpark.
-
-### 📂 [Data Governance Framework](https://github.com/seu-usuario/projeto-link)
-Automação de permissões e linhagem de dados usando Unity Catalog e Terraform.
-- **Ferramentas:** Terraform, Databricks CLI, Python.
-
----
 
 ## 📫 Vamos nos conectar?
 
