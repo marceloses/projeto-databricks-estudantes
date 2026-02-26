@@ -9,7 +9,7 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 
 ---
 
-## 🚀 Sobre Mim em constante evolução
+## 🚀 Em constante evolução
 - 📊 Analytics
 - 📚 Education
 - 🌐 ETL
