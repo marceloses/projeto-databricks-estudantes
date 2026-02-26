@@ -64,4 +64,4 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 ## 📫 Vamos nos conectar?
 
 --
-*“In data we trust, everyone else must bring their own clusters.”* ⚡
+*“Nos dados em que confiamos, todos os outros devem trazer seus próprios agrupamentos.”* ⚡
