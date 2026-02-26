@@ -51,12 +51,17 @@ Sou um apaixonado por transformar dados brutos em inteligência de negócio. Esp
 - Criando um schema Defaut
 - Transformando o Dataframe em Delta Table
 - Pipeline
-- **Ferramentas:** Databricks, PySpark.
 
----
+### 📂 Em Desenvolvimento ETL API Python
+1. O Fluxo de Dados
+- O processo segue esta lógica:
+- Request: Coleta os dados da API.
+- Landing: Salva o JSON bruto (Raw) para persistência e auditoria.
+- DataFrame: Lê o JSON para o motor Spark.
+- Table: Salva como uma tabela Delta (arquitetura Lakehouse).
+- **Ferramentas:** Databricks, PySpark.
 
 ## 📫 Vamos nos conectar?
 
-
----
-*“Nos dados em que confiamos, todos os outros devem trazer seus próprios agrupamentos”* ⚡
+--
+*“In data we trust, everyone else must bring their own clusters.”* ⚡
